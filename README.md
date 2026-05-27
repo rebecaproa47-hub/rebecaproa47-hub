@@ -1,11 +1,19 @@
-# 👋 Olá, eu sou Rebeca!
+<div align="center">
 
-🚀 Apaixonada por contabilidade, administração e legislação tributaria.  
-Atualmente cursando Front-end no PROA e evoluindo minhas habilidades na área tech.
+# 💖 Bem-vinda ao meu perfil 💖
+
+<img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="120px"/>
+
+</div>
+
+# 👩🏻‍💻 Olá, eu sou Rebeca!
+
+✨ Apaixonada por contabilidade, administração e legislação tributária.  
+🌷 Atualmente cursando Front-end no PROA e evoluindo minhas habilidades na área tech.
 
 ---
 
-# 🚀 Tecnologias & Ferramentas
+# 💻 Tecnologias & Ferramentas
 
 ## 🎨 Design & Prototipação
 <p>
@@ -20,9 +28,9 @@ Atualmente cursando Front-end no PROA e evoluindo minhas habilidades na área te
 
 ---
 
-# 👩‍💻 Sobre Mim
+# 🌸 Sobre Mim
 
-✨ Meu nome é Rebeca  
+💗 Meu nome é Rebeca  
 🎓 Formada em Administração e Técnica em Administração  
 💼 Atualmente trabalho como Assistente Fiscal em Contabilidade  
 🌎 Possuo inglês intermediário  
@@ -31,7 +39,7 @@ Atualmente cursando Front-end no PROA e evoluindo minhas habilidades na área te
 
 ---
 
-# 📚 Atualmente Estudando
+# 🌷 Atualmente Estudando
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -77,24 +85,24 @@ Atualmente cursando Front-end no PROA e evoluindo minhas habilidades na área te
 
 ---
 
-# ✨ Objetivo
+# 🌺 Objetivo
 
-Buscando unir minha experiência administrativa com a tecnologia, desenvolvendo projetos e adquirindo novos conhecimentos na área de desenvolvimento Front-end.
+✨ Buscando unir minha experiência administrativa com a tecnologia, desenvolvendo projetos e adquirindo novos conhecimentos na área de Front-end.
 
 ---
 
-# 💻 Perfil Visitantes
+# 💜 Perfil Visitantes
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rebecaproa47-hub&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rebecaproa47-hub&color=ff69b4&style=for-the-badge"/>
 </div>
 
 ---
 
-# ⚡ Frase Motivacional
+# 🌟 Frase Motivacional
 
 <div align="center">
 
-_"O sucesso normalmente vem para quem está ocupado demais para procurar por ele."_ — Henry David Thoreau
+_"Administrar é alcançar resultados através das pessoas."_ — Idalberto Chiavenato
 
 </div>
